@@ -12,7 +12,7 @@ from tastypie import __version__
 
 
 setup(
-    name='django-tastypie',
+    name='django-tastypie-fork',
     version=__version__,
     description='A flexible & capable API layer for Django.',
     author='Daniel Lindsley',
