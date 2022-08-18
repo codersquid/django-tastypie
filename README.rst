@@ -1,3 +1,18 @@
+=========
+Fork Info
+=========
+
+This is a temporary fork until these issues are resolved.
+
+* (https://github.com/django-tastypie/django-tastypie/issues/1639)
+* (https://github.com/django-tastypie/django-tastypie/issues/1618)
+
+This fork reverts the change that caused 1639 and merges the PR
+(https://github.com/django-tastypie/django-tastypie/pull/1619) that fixes
+1618.
+
+You can build a wheel with `python setup.py bdist_wheel`
+
 ===============
 django-tastypie
 ===============
